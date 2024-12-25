@@ -1,5 +1,5 @@
 # 霓虹矩阵：RAG幻境
-![img.png](https://github.com/GodLucas1/NeonRAG_Illusion/docs/img_1.png)
+![img.png](docs/img_1.png)
 
 
 霓虹矩阵是一个综合性的项目，旨在探索RAG（Retrieval-Augmented Generation）技术在不同领域的应用。本项目的初衷是想
@@ -9,6 +9,6 @@
 当然我的想法当然不只是局限于rag，后续的更多功能覆盖也会更加全面。
 
 ## 架构设计
-![img.png](https://github.com/GodLucas1/NeonRAG_Illusion/docs/img.png)
+![img.png](docs/img.png)
 
 
